@@ -13,3 +13,8 @@ var num2 = 5;
 var result = num1 + num2;
 Console.WriteLine(result)
 ```
+
+
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
